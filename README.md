@@ -11,3 +11,7 @@ This classic side-scrolling game combines platform and run-and-gun elements. Pla
 *Therapist Chatbox*
 
 A text-based AI application offering supportive conversations for users to express emotions and discuss mental health anonymously. It provides customizable responses, resource recommendations, and progress tracking features.
+
+*Face Recognition*
+
+This python code captures real-time video from a webcam and detects faces in the video stream using OpenCV and Haar Cascade Classifiers. The detected faces are highlighted with blue rectangles.
